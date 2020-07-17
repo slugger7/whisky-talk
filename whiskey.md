@@ -14,6 +14,7 @@ marp: true
 ---
 # What is it?
 
+- Water of life
 - Distilled beer - hops
 - Barley, corn, wheat, rye
 - 43+% ABV (not everywhere)
@@ -178,3 +179,6 @@ marp: true
 - Whiskey Tribe https://www.youtube.com/channel/UCphIm9gI_JbeI0ByZSRt5Mg - Information and shinnanigans
 - Ralfy.com https://www.youtube.com/user/ralfystuff - Reviews + info
 - Whiskey Brother https://www.whiskybrother.com
+- https://www.malt-whisky-madness.com/maltmadness/whisky/map/Scotland/
+- https://www.merriam-webster.com/dictionary/glen
+- For Sas https://youtu.be/J5oeBktvOV0 e vs no e
